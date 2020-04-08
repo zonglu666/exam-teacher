@@ -6,3 +6,4 @@ tmp/
 secrets.*.json
 secrets.json
 *.xlsx
+src/assets/.DS_Store
