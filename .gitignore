@@ -1,0 +1,8 @@
+node_modules/
+tmp/
+*.tmp.js
+*.jpg
+*.zip
+secrets.*.json
+secrets.json
+*.xlsx
